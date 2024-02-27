@@ -5,7 +5,7 @@ I am a masters graduate and deep learning engineer who is currently looking for 
 
 ## Work in progress
 These are the Machine Learning based tasks that I am currently working on (under an organisation or personal).
-- [Range error estimation](https://github.com/ayush939/DNN-based-ranging-quality-prediction-): This project is my master thesis at Sony, Germany. It is about predicting/estimating the ranging error in the range estimation of the Ultra Wide Band (UWB) based device which is further used for indoor localization of the objects. 
+- [Range error estimation](https://github.com/ayush939/DNN-based-ranging-quality-prediction-): This project is my master thesis at Sony, Germany. It is about predicting/estimating and then correcting the ranging error using neural networks for   Ultra Wide Band (UWB) based ranging device and this device is further used for indoor localization of the objects. 
 ## Completed projects
 
 ## My new Learnings
