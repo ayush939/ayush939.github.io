@@ -12,7 +12,7 @@ These are the Machine Learning based projects that I am currently working on (un
     - The noise in data set is very challenging as it is based on the environment (physical) and the device used.
   
 ## Previous projects
-This section includes the major prjects that I have worked on in past (for organisations and personal). These projects are part of the learning curve for me as through these projects I got to implement and test my own ideas as solutions to the problems. I was exposed to more practical side of ML which has further motivated me to become an ML Engineer.
+This section includes the major projects that I have worked on in past (for organisations and personal). These projects are part of the learning curve for me as through these projects I got to implement and test my own ideas as solutions to the problems. I was exposed to more practical side of ML which has further motivated me to become an ML Engineer.
 
 - [PCB Detection from Technical Drawings](): This is the project which I worked on as an Intern at Bosch Startup called Bosch Copperdot. The aim was to build and deploy a machine learning system (computer vision based) from scratch to count number of PCBs from the customer RFQs. Here are the challenges I faced.
         - The dataset was unlabelled and very small.
