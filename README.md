@@ -15,8 +15,8 @@ These are the Machine Learning based projects that I am currently working on (un
 This section includes the major prjects that I have worked on in past (for organisations and personal). These projects are part of the learning curve for me as through these projects I got to implement and test my own ideas as solutions to the problems. I was exposed to more practical side of ML which has further motivated me to become an ML Engineer.
 
 - [PCB Detection from Technical Drawings](): This is the project which I worked on as an Intern at Bosch Startup called Bosch Copperdot. The aim was to build and deploy a machine learning system (computer vision based) from scratch to count number of PCBs from the customer RFQs. Here are the challenges I faced:
-              -The dataset was unlabelled and very small.
-              -The distribution of test data was unknown/unclear.
+-             The dataset was unlabelled and very small.
+-         The distribution of test data was unknown/unclear.
 Checkout the repository to understand my approach to this problem!
 
  - [Eye Gaze Data Poisoning](): 
