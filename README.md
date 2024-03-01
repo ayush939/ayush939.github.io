@@ -18,7 +18,7 @@ This section includes the major projects that I have worked on in past (for orga
     - The dataset was unlabelled and very small.
     - The distribution of test data was unknown/unclear.
 
-- [Eye Gaze Data Poisoning](https://github.com/ayush939/Gaze-Data-Poisoning.git): I was assiociated with University Of Stuttgart, Germany for this project. The aim of the project was to check the vulnerabilty of the eye gaze estimation Computer Vision model which has critical application in privacy and security related application. We added various types of adversarial noise during the training time and analysed the degradation in performance on clean images. We also explored the defence mechanisms.
+- [Eye Gaze Data Poisoning](https://github.com/ayush939/Gaze-Data-Poisoning.git): I was associated with University Of Stuttgart, Germany for this project. The aim of the project was to analyse the vulnerabilty and robustness of the eye gaze estimation Computer Vision model which has critical application in privacy and security related domains. We added various types of adversarial noise during the training time and analysed the degradation in model's performance on clean images. We also explored the defence mechanisms.
     
 
 ## My new Learnings
