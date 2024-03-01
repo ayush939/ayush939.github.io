@@ -18,7 +18,7 @@ This section includes the major projects that I have worked on in past (for orga
     - The dataset was unlabelled and very small.
     - The distribution of test data was unknown/unclear.
 
-- [Eye Gaze Data Poisoning](): 
+- [Eye Gaze Data Poisoning](): I was assiociated with University Of Stuttgart, Germany for this project.
     
 
 ## My new Learnings
