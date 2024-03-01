@@ -8,8 +8,8 @@ I am a masters graduate and deep learning engineer who is currently looking for 
 These are the Machine Learning based projects that I am currently working on (under an organisation or personal).
 - [Range error estimation](https://github.com/ayush939/DNN-based-ranging-quality-prediction-): This project is my master thesis at Sony, Germany. The aim is use an AI-based predictive model to increase the robustness and accuracy of the Ultra Wide Band (UWB) based ranging device. The developed model predicts/estimats and then corrects the ranging error using neural networks for Ultra Wide Band (UWB) based ranging device and this device is further used for indoor localization of the objects.
     - The aim is to develop a small, efficient, and robust regression based neural network model by fusing multimodal data.
-    - The data is recorded at the organisation. This brings in challenges like quality and quantity of the data.
-    - The noise in data set is very challenging as it is based on the environment (physical) and the device used.
+    - The data is recorded at the organisation (and not open-source). This brings in challenges like quality and quantity of the data.
+    - The noise in data set is very challenging as it is based on the environment (physical) and the devices used.
   
 ## Previous projects
 This section includes the major projects that I have worked on in past (for organisations and personal). These projects are part of the learning curve for me as through these projects I got to implement and test my own ideas as solutions to the problems. I was exposed to more practical side of ML which has further motivated me to become an ML Engineer.
