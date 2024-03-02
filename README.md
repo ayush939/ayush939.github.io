@@ -31,4 +31,4 @@ This section includes the major projects that I have worked on in past (for orga
     - Domain Generalization
 
 - MLOps
-
+    - Desgining Machine Learning Systems Book by Chip Huyen
