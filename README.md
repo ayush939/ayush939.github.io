@@ -27,6 +27,7 @@ This section includes the major projects that I have worked on in past (for orga
     - Transformer Architecture
     - VAEs
     - GANs
+- Deep Learning 
     - Domain Generalization
 
 - MLOps
