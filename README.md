@@ -22,6 +22,8 @@ This section includes the major projects that I have worked on in past (for orga
     
 
 ## My Current Learnings
+
+[Jupyter Notebooks](https://github.com/ayush939/Self-Learning-Projects.git): These are my implementations(toy) of the topic I have interests in :)  
 - Generative AI:
     - Diffusion based models
     - Transformer Architecture
